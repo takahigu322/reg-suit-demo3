@@ -14,5 +14,22 @@
   },
   "dependencies": {
     "semantic-ui-css": "^2.4.1"
-  }
+  },
+  "name": "reg-puppeteer-demo",
+  "description": "This is a demonstration repository to explain how to introduce visual regression testing into your project.",
+  "version": "1.0.0",
+  "main": "capture.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reg-viz/reg-puppeteer-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reg-viz/reg-puppeteer-demo/issues"
+  },
+  "homepage": "https://github.com/reg-viz/reg-puppeteer-demo#readme"
 }
